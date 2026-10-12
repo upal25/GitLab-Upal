@@ -1,0 +1,3 @@
+Why the git staging area is useful?
+
+The Git staging area is useful because it allows you to select which changes to include in the next commit. You can review and organize your changes before saving them to the repository.
